@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+study.eeua.ru	TRUE	/	FALSE	1999999999	ipp_uid2	tg2cEfojAoP8bPN3/Eu6XOghViOmI+rkLN2a0Yw==
+study.eeua.ru	TRUE	/	FALSE	1999999999	ipp_uid1	1577972117020
+study.eeua.ru	TRUE	/	FALSE	1999999999	ipp_uid	1577972117020/tg2cEfojAoP8bPN3/Eu6XOghViOmI+rkLN2a0Yw==
+study.eeua.ru	TRUE	/	FALSE	1999999999	rerf	AAAAAF4N8ZUYGAq8AxA+Ag==
+
